@@ -1,29 +1,31 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.cc41272b.chunk.css",
-    "main.js": "/portfolio/static/js/main.1d0058cf.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.1d0058cf.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.6c77971a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6c77971a.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.d6459c00.chunk.js": "/portfolio/static/js/2.d6459c00.chunk.js",
-    "static/js/2.d6459c00.chunk.js.map": "/portfolio/static/js/2.d6459c00.chunk.js.map",
+    "static/js/2.81c55b45.chunk.js": "/portfolio/static/js/2.81c55b45.chunk.js",
+    "static/js/2.81c55b45.chunk.js.map": "/portfolio/static/js/2.81c55b45.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.10e576e4db5c93a75f244ad512bc171b.js": "/portfolio/precache-manifest.10e576e4db5c93a75f244ad512bc171b.js",
+    "precache-manifest.fb0490b502eb9f3c4f0220c00d8e66ca.js": "/portfolio/precache-manifest.fb0490b502eb9f3c4f0220c00d8e66ca.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.cc41272b.chunk.css.map": "/portfolio/static/css/main.cc41272b.chunk.css.map",
-    "static/js/2.d6459c00.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d6459c00.chunk.js.LICENSE.txt",
+    "static/js/2.81c55b45.chunk.js.LICENSE.txt": "/portfolio/static/js/2.81c55b45.chunk.js.LICENSE.txt",
     "static/media/8secondz.png": "/portfolio/static/media/8secondz.9388d614.png",
     "static/media/bartini.png": "/portfolio/static/media/bartini.c7b2dbe0.png",
     "static/media/cabbagetreelandscape.png": "/portfolio/static/media/cabbagetreelandscape.7feddacb.png",
     "static/media/cactus.png": "/portfolio/static/media/cactus.ad8ee816.png",
     "static/media/cactuscan.png": "/portfolio/static/media/cactuscan.9ef3cb72.png",
+    "static/media/edulyt.png": "/portfolio/static/media/edulyt.da769e1d.png",
     "static/media/hrishikesh.png": "/portfolio/static/media/hrishikesh.7f85db89.png",
-    "static/media/psykinetic.png": "/portfolio/static/media/psykinetic.9c1952ca.png"
+    "static/media/psykinetic.png": "/portfolio/static/media/psykinetic.9c1952ca.png",
+    "static/media/publicissapient.png": "/portfolio/static/media/publicissapient.e3c30fed.png"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.d6459c00.chunk.js",
+    "static/js/2.81c55b45.chunk.js",
     "static/css/main.cc41272b.chunk.css",
-    "static/js/main.1d0058cf.chunk.js"
+    "static/js/main.6c77971a.chunk.js"
   ]
 }
