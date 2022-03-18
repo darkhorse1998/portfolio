@@ -2,14 +2,14 @@
   "experience": [
     {
       "id": 0,
-      "link": "https://www.8secondz.com/",
+      "link": "https://github.com/darkhorse1998/Loan-Data-Analysis",
       "company": "Edulyt",
-      "title": "Data Analyst Intern",
+      "title": "Data Analyst Summer Intern",
       "dateFrom": "May 2020",
-      "dateTo": "June 2021",
+      "dateTo": "June 2020",
       "info": [
-        "Responsible for web team front-end development and design",
-        "Led in app UI/UX & company wide creative media content"
+        "Helped the firm make decisions on a project which demanded prediction on approval of loan applications of real life customers.",
+        "Gained extensive experience of dealing with real life data."
       ],
       "stack": ["Data Science", "Machine Learning", "Python","Artificial Intelligence"],
       "logoheight": 80,
@@ -21,11 +21,11 @@
       "link": "https://www.publicissapient.com",
       "company": "PublicisSapient",
       "title": "Associate Software Developer",
-      "dateFrom": "2021",
+      "dateFrom": "June 2021",
       "dateTo": "Current",
       "info": [
-        "Co-founding CactusCan in 2015 has led to many exciting projects with incredible customers.",
-        "Web design, marketing, media and customer engagement."
+        "Responsible for exploring technologies and providing teams with simplified and ready-to-use configurable artifacts.",
+        "Automation and KT sessions to help teams decrease effective Person Days on setup."
       ],
       "stack": ["Spring Boot", "DevOps", "Camunda", "Kong","Terraform","Ansible","React"],
       "logowidth": 80,

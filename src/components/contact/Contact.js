@@ -22,7 +22,7 @@ const Contact = () => {
                       'Abandoned Facebook and Instagram',
                       'Why?',
                       'To be revealed after we connect',
-                      'Left the following open doors for you '
+                      'Left the following doors open for you '
                     ],
                     autoStart: true,
                     loop: true,

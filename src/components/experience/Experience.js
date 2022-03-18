@@ -25,7 +25,7 @@ const Experience = () => {
               justifyContent: 'center',
             }}
           >
-            <p style={{ textAlign: 'center' }}>
+            {/* <p style={{ textAlign: 'center' }}>
               Further in-depth experience pre 2020 can be found on my{' '}
               <a
                 href="https://www.linkedin.com/in/mjigalin/"
@@ -40,7 +40,7 @@ const Experience = () => {
                 LinkedIn
               </a>
               .
-            </p>
+            </p> */}
           </div>
         </Fade>
       </div>

@@ -1,0 +1,20 @@
+{
+    "selfProject": [
+      {
+        "id": 0,
+        "link": "https://github.com/darkhorse1998/Guide-of-a-Software-Engineer",
+        "company": "Self",
+        "title": "A Software Engineer's Guide",
+        "dateFrom": "March 2022",
+        "dateTo": "Present",
+        "info": [
+          ""
+        ],
+        "stack": ["Camunda","Spring Security","Jasypt"],
+        "logoheight": 80,
+        "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+        "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+      }
+    ]
+  }
+  

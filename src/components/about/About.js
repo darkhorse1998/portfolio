@@ -29,7 +29,7 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              You can find me working and constanly learning new things to find my niche.
+              Mostly you will find me working and consistently learning new things.
             </p>
             <div className="typewriter">
               <p className="typewriter-start">
