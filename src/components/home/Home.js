@@ -37,8 +37,8 @@ const Home = () => {
                   strings: [
                     'I love learning new things',
                     'Bugs keep me up at night 😄',
-                    'I love automating things',
-                    'I am winning against myself each and every day'
+                    'I love automating and simplifying things',
+                    'I am winning against myself everyday'
                   ],
                   autoStart: true,
                   loop: true,

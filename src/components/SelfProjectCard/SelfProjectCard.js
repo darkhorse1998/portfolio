@@ -4,65 +4,76 @@ import Typewriter from 'typewriter-effect'
 
 
 const SelfProjectCard = ({ project }) => {
-  let { link, company, title, dateFrom, dateTo, info, stack } = project
-  const progress = "Work in Progres";
+  let { link, company, title, dateFrom, dateTo, info, stack, complete } = project
+  var progress = ""
+  if(complete){
+    progress = "Complete";
+  }
+  else {
+    progress = "Ongoing";
+  }
   const dots = new Array(progress.length + 2).join('. ');
   return (
     <React.Fragment>
-    <h4 className='progress'>{progress}
-    <Typewriter
-        options={{
-            strings: [dots],
-            autoStart: true,
-            loop: true,
-            deleteSpeed: 10,
-            cursor: '',
-            delay: 80,
-        }}
-    />
-    </h4>
-
-    {/* <a
-      className="experience-link"
+    <a
+      className="project-link"
       href={link}
       target="_blank"
       rel="noopener noreferrer"
     >
-      <div className="experience-card-wrapper">
-        <div className="experience-card">
-          <div className="experience-card-top">
+      
+      <div className="project-card-wrapper">
+        <div className="project-card">
+          <div className="project-card-top">
             <div
-              className="experience-bg"
-              style={{ background: experience.colourPrimary }}
+              className="project-bg"
+              style={{ background: project.colourPrimary }}
             ></div>
             <h2>{company}</h2>
+            
             <div className="image-wrapper">
               <div
-                className="experience-bg logo-bg"
+                className="project-bg logo-bg"
                 style={{
-                  background: experience.colourSecondary
-                    ? experience.colourSecondary
-                    : experience.colourPrimary,
+                  background: project.colourSecondary
+                    ? project.colourSecondary
+                    : project.colourPrimary,
                 }}
-              ></div>
-              <img
+              >
+            
+            <h5 className='progress'>{progress}
+            <Typewriter
+                options={{
+                    strings: [dots],
+                    autoStart: true,
+                    loop: true,
+                    deleteSpeed: 10,
+                    cursor: '',
+                    delay: 80,
+                }}
+            />
+            </h5>
+              </div>
+              
+              {/* <img
                 className="company-logo"
                 src={require(`../../images/logos/${company
                   .replace(/ /g, '')
                   .toLowerCase()}.png`)}
                 alt={`${company}-logo`}
                 style={
-                  experience.logoheight
+                  project.logoheight
                     ? {
-                        height: `${experience.logoheight}%`,
+                        height: `${project.logoheight}%`,
                       }
-                    : { width: `${experience.logowidth}%` }
+                    : { width: `${project.logowidth}%` }
                 }
-              />
+              /> */}
             </div>
           </div>
-          <div className="experience-card-bottom">
+          <div className="project-card-bottom">
             <div>
+            
               <h2>{title}</h2>
               <h3>
                 {dateFrom} - {dateTo}
@@ -73,7 +84,7 @@ const SelfProjectCard = ({ project }) => {
                 ))}
               </ul>
             </div>
-            <div className="experience-card-tech">
+            <div className="project-card-tech">
               <ul>
                 {stack.map((tech) => (
                   <li key={`${company}-${tech}`}>{tech}</li>
@@ -83,7 +94,7 @@ const SelfProjectCard = ({ project }) => {
           </div>
         </div>
       </div>
-    </a> */}
+    </a>
     </React.Fragment>
   )
 }

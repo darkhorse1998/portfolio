@@ -3,18 +3,34 @@
       {
         "id": 0,
         "link": "https://github.com/darkhorse1998/Guide-of-a-Software-Engineer",
-        "company": "Self",
+        "company": "Learning Curve Projects",
         "title": "A Software Engineer's Guide",
         "dateFrom": "March 2022",
         "dateTo": "Present",
         "info": [
-          ""
+          "An ongoing journey of mine as a software engineer; learnings and implementations made simple."
         ],
         "stack": ["Camunda","Spring Security","Jasypt"],
         "logoheight": 80,
-        "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
-        "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+        "colourPrimary": "linear-gradient(to bottom, #258AF2, #58AAFF)",
+        "colourSecondary": "linear-gradient(to bottom, #258AF2, #58AAFF)",
+        "complete": false
+      },
+      {
+        "id": 1,
+        "link": "https://darkhorse1998.github.io/project-sip/",
+        "company": "Investment Corner",
+        "title": "Step-Up SIP with Existing Lumpsum",
+        "dateFrom": "March 2022",
+        "dateTo": "March 2022",
+        "info": [
+          "An ongoing journey of mine as a software engineer; learnings and implementations made simple."
+        ],
+        "stack": ["React","CSS","Personal Finance"],
+        "logoheight": 80,
+        "colourPrimary": "linear-gradient(to bottom, #258AF2, #58AAFF)",
+        "colourSecondary": "linear-gradient(to bottom, #258AF2, #58AAFF)",
+        "complete": true
       }
     ]
   }
-  

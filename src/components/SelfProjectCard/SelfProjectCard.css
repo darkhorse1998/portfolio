@@ -2,16 +2,16 @@
   text-align: center;
 }
 
-.experience-link {
+.project-link {
   text-decoration: none;
   height: 100%;
   cursor: default;
 }
-.experience-card-wrapper {
+.project-card-wrapper {
   height: 100%;
   transition: 0.2s;
 }
-.experience-card {
+.project-card {
   position: relative;
   background-color: #3b4353;
   border-radius: 5px;
@@ -21,11 +21,11 @@
   height: 100%;
   cursor: pointer;
 }
-.experience-card-wrapper:hover .experience-card {
+.project-card-wrapper:hover .project-card {
   transform: translateY(-10px);
   background-color: #474f63;
 }
-.experience-card-top {
+.project-card-top {
   position: relative;
   width: 100%;
   height: 150px;
@@ -33,7 +33,7 @@
   align-items: center;
   justify-content: center;
 }
-.experience-card-top > h2 {
+.project-card-top > h2 {
   position: absolute;
   top: 30px;
   text-align: center;
@@ -57,7 +57,7 @@
   -moz-box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.25);
 }
-.experience-card-bottom {
+.project-card-bottom {
   position: relative;
   box-sizing: border-box;
   text-align: center;
@@ -69,31 +69,31 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.experience-card-bottom h2 {
+.project-card-bottom h2 {
   margin: 0;
 }
-.experience-card-bottom h3 {
+.project-card-bottom h3 {
   margin: 20px 0;
   font-size: 18px;
 }
-.experience-card-bottom ul {
+.project-card-bottom ul {
   list-style-type: disc;
   text-align: left;
 }
-.experience-card-bottom li {
+.project-card-bottom li {
   font-size: 16px;
 }
-.experience-card-tech {
+.project-card-tech {
   margin-top: 20px;
 }
-.experience-card-tech > ul {
+.project-card-tech > ul {
   list-style-type: none;
   display: flex;
   flex-wrap: wrap;
   margin-top: -7px;
   margin-left: -7px;
 }
-.experience-card-tech > ul > li {
+.project-card-tech > ul > li {
   font-size: 12px;
   font-weight: 600;
   margin-top: 7px;
@@ -102,7 +102,7 @@
   padding: 5px 10px;
   background-color: rgb(94, 106, 128);
 }
-.experience-bg {
+.project-bg {
   position: absolute;
   border-radius: 5px 5px 0 0;
   width: 100%;
@@ -117,11 +117,11 @@
   pointer-events: none;
 }
 @media screen and (max-width: 599px) {
-  .experience-card-wrapper:hover .experience-card {
+  .project-card-wrapper:hover .project-card {
     transform: translateY(0);
     background-color: #3b4353;
   }
-  .experience-card-bottom {
+  .project-card-bottom {
     padding: 65px 15px 20px 15px;
   }
 }
