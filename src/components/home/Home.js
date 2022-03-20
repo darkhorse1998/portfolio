@@ -8,7 +8,7 @@ import Typewriter from 'typewriter-effect'
 import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle'
 import Navbar from '../navbar/Navbar'
 import config from '../../config'
-import profile from '../../images/hrishikesh.png'
+import profile from '../../images/hrishikesh-green.jpg'
 // import linkedin from '../../images/social/linkedin.png'
 
 const Home = () => {
