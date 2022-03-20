@@ -42,6 +42,7 @@ const SelfProjectCard = ({ project }) => {
               >
             
             <h5 className='progress'>{progress}
+            {!complete &&
             <Typewriter
                 options={{
                     strings: [dots],
@@ -51,7 +52,7 @@ const SelfProjectCard = ({ project }) => {
                     cursor: '',
                     delay: 80,
                 }}
-            />
+            />}
             </h5>
               </div>
               
