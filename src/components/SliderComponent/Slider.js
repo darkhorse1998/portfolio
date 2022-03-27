@@ -151,6 +151,7 @@ const Slider = props => {
         {_slides.map((_slide, i) => (
           <Slide width={getWidth()} key={_slide + i} content={_slide}/>
         ))}
+        {console.log(_slides)}
       </SliderContent>
       </a>
       <Arrow direction="left" handleClick={prevSlide} />
@@ -163,12 +164,11 @@ const Slider = props => {
 
 const SliderCSS = css`
   position: relative;
-  height: 80vh;
+  height: 100vh;
   width: 100vw;
   margin: 0 auto;
   overflow: hidden;
   white-space: nowrap;
-  object-fit: contain;
 `
 
 export default Slider

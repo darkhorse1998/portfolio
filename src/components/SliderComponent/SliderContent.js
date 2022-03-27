@@ -9,7 +9,7 @@ const SliderContent = props => (
       height: 100%;
       width: ${props.width}px;
       display: flex;
-      object-fit: contain;
+      
     `}
   >
     {props.children}

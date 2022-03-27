@@ -11,6 +11,7 @@ const Certificate = () => {
 
     while(i<certificatesData.certificates.length){
         images.push(certificatesData.certificates[i].url)
+        // images.push("../../images/certificates/"+certificatesData.certificates[i].filename)
         i++;
     }
 
