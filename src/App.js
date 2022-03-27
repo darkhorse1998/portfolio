@@ -8,6 +8,8 @@ import CurrentSelfProject from './components/CurrentSelfProject/CurrentSelfProje
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 import TopButton from './components/topButton/TopButton'
+import Certificate from './components/Certificates/Certificate'
+
 
 function App() {
   return (
@@ -17,6 +19,7 @@ function App() {
       <Experience />
       {/* <Projects /> */}
       <CurrentSelfProject />
+      <Certificate />
       <Contact />
       <Footer />
       <TopButton />
