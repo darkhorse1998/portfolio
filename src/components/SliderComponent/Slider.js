@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect, useRef, useCallback } from 'react'
 import { css, jsx } from '@emotion/react'
 import SliderContent from './SliderContent'
 import Slide from './Slide'
@@ -12,7 +12,7 @@ const getWidth = () => window.innerWidth
  * @function Slider
  */
 const Slider = props => {
-  const { slides, autoPlay } = props
+  const slides = props.slides
 
   const firstSlide = slides[0]
   const secondSlide = slides[1]
@@ -78,12 +78,12 @@ const Slider = props => {
   
     let interval = null
     
-    if (autoPlay) {
-        interval = setInterval(play, autoPlay * 1000);
+    if (props.autoPlay) {
+        interval = setInterval(play, props.autoPlay * 1000);
     }
     
     return () => {
-        if (autoPlay) {
+        if (props.autoPlay) {
             clearInterval(interval);
         }
     };
