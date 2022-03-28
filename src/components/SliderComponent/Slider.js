@@ -12,7 +12,7 @@ const getWidth = () => window.innerWidth
  * @function Slider
  */
 const Slider = props => {
-  const slides = props.slides
+  const { slides } = props
 
   const firstSlide = slides[0]
   const secondSlide = slides[1]
