@@ -19,7 +19,7 @@ const Certificate = () => {
         <Section title="Certificate">
             <div className="certificate-content">
                 <div className='certificate-list' >
-                    <Slider slides={images} />
+                    <Slider slides={images} autoPlay={3}/>
                 </div>
             </div>
         </Section>
