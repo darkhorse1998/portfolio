@@ -13,7 +13,7 @@ const Slide = ({ content, width}) => {
         background-image: url('${content}');
         background-size: contain;
         background-repeat: no-repeat;
-        background-position: center center;
+        background-position: center;
         text-align: center;
       `}
     > 
