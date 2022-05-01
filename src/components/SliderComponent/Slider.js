@@ -149,7 +149,7 @@ const Slider = props => {
         width={getWidth() * _slides.length}
       >
         {_slides.map((_slide, i) => (
-          <Slide width={getWidth()} key={_slide + i} content={slides[activeSlide]}/>
+          <Slide width={getWidth()} key={_slide + i} content={_slide}/>
         ))}
         {console.log(_slides)}
       </SliderContent>
