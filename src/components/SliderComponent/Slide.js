@@ -10,7 +10,7 @@ const Slide = ({ content, width}) => {
       css={css`
         height: 100%;
         width: ${width}px;
-        // background-image: url('${content}');
+        background-image: url('${content}');
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -18,7 +18,7 @@ const Slide = ({ content, width}) => {
       `}
     > 
       {/* <a href={content} target="_blank" rel='noreferrer'> */}
-      <img src={content} alt={content} style={{objectFit:'contain',maxHeight:'100%'}}/>
+      {/* <img src={content} alt={content} style={{objectFit:'contain',maxHeight:'100%'}}/> */}
       {/* </a> */}
     </div>
     </a>

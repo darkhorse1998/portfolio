@@ -30,4 +30,8 @@
     color: #0be779;
     cursor: pointer;
   }
-  
+.certificate-hyperlink {
+  background-color: #0be779;
+  padding: 5px;
+  border-radius: 10px;
+}  
