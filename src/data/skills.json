@@ -2,36 +2,63 @@
   "skills": [
     {
       "id": 0,
-      "skillName": "Springboot",
-      "amount": "70"
+      "skillName": "Azure",
+      "amount": "90"
     },
     {
       "id": 1,
-      "skillName": "DevOps",
-      "amount": "80"
+      "skillName": "OCI",
+      "amount": "60"
     },
     {
       "id": 2,
       "skillName": "AWS",
-      "amount": "50"
+      "amount": "60"
     },
-    { "id": 3, "skillName": "Python", "amount": "70" },
+    {
+      "id": 3,
+      "skillName": "DevOps CI/CD",
+      "amount": "90"
+    },
     {
       "id": 4,
-      "skillName": "Terraform Ansible",
-      "amount": "50"
+      "skillName": "Azure DevOps",
+      "amount": "90"
     },
     {
       "id": 5,
-      "skillName": "Camunda",
-      "amount": "70"
+      "skillName": "Kubernetes",
+      "amount": "80"
     },
-    { "id": 6, "skillName": "Kong", "amount": "70" },
-    { "id": 7, "skillName": "Frontend", "amount": "50" },
+    {
+      "id": 6,
+      "skillName": "Helm",
+      "amount": "80"
+    },
+    {
+      "id": 7,
+      "skillName": "Terraform",
+      "amount": "80"
+    },
     {
       "id": 8,
-      "skillName": "Backend",
-      "amount": "70"
+      "skillName": "Ansible",
+      "amount": "80"
+    },
+    {
+      "id": 9,
+      "skillName": "Bash Pwershell",
+      "amount": "80"
+    },
+    {
+      "id": 10,
+      "skillName": "Python",
+      "amount": "80"
+    },
+    {
+      "id": 11,
+      "skillName": "Platform Management",
+      "amount": "90"
     }
   ]
 }

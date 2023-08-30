@@ -20,12 +20,13 @@
       "id": 1,
       "link": "https://www.publicissapient.com",
       "company": "PublicisSapient",
-      "title": "Associate Software Developer",
+      "title": "Associate Infrastructure L2",
       "dateFrom": "June 2021",
       "dateTo": "Current",
       "info": [
-        "Responsible for exploring technologies and providing teams with simplified and ready-to-use configurable artifacts.",
-        "Automation and KT sessions to help teams decrease effective Person Days on setup."
+        "Successfully managed and executed production deployments for clients, ensuring a seamless transition and on-time go-live.",
+        "Utilized IaC tools to automate identification and review of PR based changes, and deployment of cloud infrastructure",
+        "Collaborated with client to debottleneck their application gateways, resulting in a 50% reduction in manual intervention required for scaling"
       ],
       "stack": ["Spring Boot", "DevOps", "Camunda", "Kong","Terraform","Ansible","React"],
       "logowidth": 80,

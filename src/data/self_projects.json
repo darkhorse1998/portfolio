@@ -3,18 +3,18 @@
       {
         "id": 0,
         "link": "https://github.com/darkhorse1998/Guide-of-a-Software-Engineer",
-        "company": "Learning Curve Projects",
-        "title": "A Software Engineer's Guide",
+        "company": "The Baby Steps",
+        "title": "Initial Days with Backend",
         "dateFrom": "March 2022",
         "dateTo": "Present",
         "info": [
-          "An ongoing journey of mine as a software engineer; learnings and implementations made simple."
+          "This would be always special to me, even if it is not very much relevant to the domain I am currently in. The start of a journey is always to be cherished!"
         ],
         "stack": ["Camunda","Spring Security","Jasypt"],
         "logoheight": 80,
         "colourPrimary": "linear-gradient(to bottom, #258AF2, #58AAFF)",
         "colourSecondary": "linear-gradient(to bottom, #258AF2, #58AAFF)",
-        "complete": false
+        "complete": true
       },
       {
         "id": 1,

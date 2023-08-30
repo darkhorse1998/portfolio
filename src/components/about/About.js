@@ -23,7 +23,13 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              I'm a fresh software engineer exploring a bunch of technolgies ranging from Devops, Cloud to stuff like Blockchain.
+              It's been a journey of fate, and I have found my domain; Cloud & DevOps it is!
+            </p>
+            <p>
+              <span role="img" aria-label="lightning">
+                ⚡
+              </span>{' '}
+              In my span of 2+ years, I have always tried to put myself in areas outside my comfort zone and that has played really well for me, resulting in an exponential learning curve.
             </p>
             <p>
               <span role="img" aria-label="lightning">
@@ -56,7 +62,7 @@ const About = () => {
               <p>.</p>
             </div>
             <p>
-              [ <b>2021</b> - <i>year of change</i> ] - I had started my professional career, I started reading some quality books,
+              [ <b>2021</b> - year of change ] - I had started my professional career, I started reading some quality books,
               I learnt about personal finance and financial planning which enabled me to manage my money by myself; 
               a big confidence boost.
               {/* <Link
@@ -68,6 +74,25 @@ const About = () => {
               >
                 projects
               </Link> */}
+            </p>
+            <p>
+              [ <b>2023</b> - year of challenges ] - I had some health related issues. But, I came back stronger! I realized
+              the importance of health in life and now have a good grasp and understanding of it.
+              {/* <Link
+                className="textLink"
+                to="projects"
+                spy={true}
+                smooth={true}
+                duration={500}
+              >
+                projects
+              </Link> */}
+            </p>
+            <p>
+              <span role="img" aria-label="lightning">
+                ⚡
+              </span>{' '}
+              I have now control over 2 very important standing stones in life; <b>Health</b> & <b>Wealth</b>
             </p>
             <div className="location-wrapper">
               <svg
