@@ -6,6 +6,7 @@ import { Bounce } from 'react-reveal'
 import linkedin from '../../images/social/linkedin.png'
 import github from '../../images/social/github.png'
 import twitter from '../../images/social/twitter.jpg'
+import medium from '../../images/social/medium.jpg'
 import Typewriter from 'typewriter-effect'
 
 const Contact = () => {
@@ -54,6 +55,14 @@ const Contact = () => {
             rel="noopener noreferrer"
           >
             <img src={twitter} alt="Twitter Logo" width="40px" />
+          </a>
+
+          <a
+            href="https://medium.com/@hrishikeshkalita11"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src={medium} alt="Medium Logo" width="40px" />
           </a>
         </div>
       </Bounce>
