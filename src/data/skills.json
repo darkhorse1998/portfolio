@@ -47,7 +47,7 @@
     },
     {
       "id": 9,
-      "skillName": "Bash Pwershell",
+      "skillName": "Bash Powershell",
       "amount": "80"
     },
     {
@@ -59,6 +59,11 @@
       "id": 11,
       "skillName": "Platform Management",
       "amount": "90"
+    },
+    {
+      "id": 12,
+      "skillName": "Gitlab",
+      "amount": "80"
     }
   ]
 }

@@ -2,15 +2,15 @@
     "selfProject": [
       {
         "id": 0,
-        "link": "https://github.com/darkhorse1998/Guide-of-a-Software-Engineer",
-        "company": "The Baby Steps",
-        "title": "Initial Days with Backend",
-        "dateFrom": "March 2022",
-        "dateTo": "Present",
+        "link": "https://github.com/darkhorse1998/hk-medium-gitlab-part-1",
+        "company": "Medium Article",
+        "title": "Deploying Application through Gitlab Part 1",
+        "dateFrom": "Nov 2024",
+        "dateTo": "Nov 2024",
         "info": [
-          "This would be always special to me, even if it is not very much relevant to the domain I am currently in. The start of a journey is always to be cherished!"
+          "This is Part 1 for Gitlab sessions, where I am documenting my learning process."
         ],
-        "stack": ["Camunda","Spring Security","Jasypt"],
+        "stack": ["Gitlab","CI/CD","DevOps"],
         "logoheight": 80,
         "colourPrimary": "linear-gradient(to bottom, #258AF2, #58AAFF)",
         "colourSecondary": "linear-gradient(to bottom, #258AF2, #58AAFF)",
@@ -18,6 +18,22 @@
       },
       {
         "id": 1,
+        "link": "https://github.com/darkhorse1998/hk-medium-gitlab-part-2",
+        "company": "Medium Article",
+        "title": "Deploying Application through Gitlab Part 2",
+        "dateFrom": "Nov 2024",
+        "dateTo": "Nov 2024",
+        "info": [
+          "In Part 2, we will be exploring about containerization of the application, variables, Gitlab Container Registry, services, pre-defined Gitlab variables."
+        ],
+        "stack": ["Gitlab","CI/CD","Docker"],
+        "logoheight": 80,
+        "colourPrimary": "linear-gradient(to bottom, #258AF2, #58AAFF)",
+        "colourSecondary": "linear-gradient(to bottom, #258AF2, #58AAFF)",
+        "complete": true
+      },
+      {
+        "id": 2,
         "link": "https://darkhorse1998.github.io/project-sip/",
         "company": "Investment Corner",
         "title": "Step-Up SIP with Existing Lumpsum",
