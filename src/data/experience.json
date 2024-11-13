@@ -25,7 +25,7 @@
       "dateTo": "Current",
       "info": [
         "Successfully managed and executed production deployments for clients, ensuring a seamless transition and on-time go-live.",
-        "Lead a team of DevOps & leveraged containerized deployments & orchestration along with pipeline automation through Azure DevOps and Azure Kubernetes Services to manage application workloads.",
+        "Led a team of DevOps & leveraged containerized deployments & orchestration along with pipeline automation through Azure DevOps and Azure Kubernetes Services to manage application workloads.",
         "Collaborated with client to debottleneck their application gateways, resulting in a 50% reduction in manual intervention required for scaling"
       ],
       "stack": ["Azure", "DevOps", "Kubernetes", "Helm", "Terraform", "Ansible", "Azure DevOps"],

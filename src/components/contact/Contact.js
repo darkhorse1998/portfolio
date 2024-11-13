@@ -19,9 +19,8 @@ const Contact = () => {
         <Typewriter
                   options={{
                     strings: [
-                      'Abandoned Facebook and Instagram',
-                      'Why?',
-                      'To be revealed after we connect',
+                      'Feel free to contact me',
+                      'Looking forward to adding value',
                       'Left the following doors open for you '
                     ],
                     autoStart: true,

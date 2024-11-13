@@ -29,7 +29,7 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              In my span of 2+ years, I have always tried to put myself in areas outside my comfort zone and that has played really well for me, resulting in an exponential learning curve.
+              In my span of 3.5+ years, I have always tried to put myself in areas outside my comfort zone and that has played really well for me, resulting in an exponential learning curve.
             </p>
             <p>
               <span role="img" aria-label="lightning">
@@ -48,7 +48,7 @@ const About = () => {
                 options={{
                   strings: [
                     'learning new technologies',
-                    'learning about businesses',
+                    'finance & stock markets',
                     'solving problems',
                     'reading books',
                     'fixing hard-to-fix bugs',
@@ -76,7 +76,7 @@ const About = () => {
               </Link> */}
             </p>
             <p>
-              [ <b>2023</b> - year of challenges ] - I had some health related issues. But, I came back stronger! I realized
+              [ <b>2023-2024</b> - years of challenges ] - I had some health related issues. But, I came back stronger! I realized
               the importance of health in life and now have a good grasp and understanding of it.
               {/* <Link
                 className="textLink"
@@ -92,7 +92,7 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              I have now control over 2 very important standing stones in life; <b>Health</b> & <b>Wealth</b>
+              I have now control over 2 very important pillars in life; <b>Health</b> & <b>Wealth</b>
             </p>
             <div className="location-wrapper">
               <svg
