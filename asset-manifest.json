@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c5839ae1.chunk.css",
-    "main.js": "/portfolio/static/js/main.ea83b484.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.ea83b484.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.3a70c4c4.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3a70c4c4.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.08f4fafc.chunk.js": "/portfolio/static/js/2.08f4fafc.chunk.js",
-    "static/js/2.08f4fafc.chunk.js.map": "/portfolio/static/js/2.08f4fafc.chunk.js.map",
+    "static/js/2.ea375130.chunk.js": "/portfolio/static/js/2.ea375130.chunk.js",
+    "static/js/2.ea375130.chunk.js.map": "/portfolio/static/js/2.ea375130.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.42f4d143094b274dfd3f4653d6c3c3aa.js": "/portfolio/precache-manifest.42f4d143094b274dfd3f4653d6c3c3aa.js",
+    "precache-manifest.dec983b923cbdf1d4fbe65c53f366bec.js": "/portfolio/precache-manifest.dec983b923cbdf1d4fbe65c53f366bec.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.c5839ae1.chunk.css.map": "/portfolio/static/css/main.c5839ae1.chunk.css.map",
-    "static/js/2.08f4fafc.chunk.js.LICENSE.txt": "/portfolio/static/js/2.08f4fafc.chunk.js.LICENSE.txt",
+    "static/js/2.ea375130.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ea375130.chunk.js.LICENSE.txt",
     "static/media/8secondz.png": "/portfolio/static/media/8secondz.9388d614.png",
     "static/media/bartini.png": "/portfolio/static/media/bartini.c7b2dbe0.png",
     "static/media/cabbagetreelandscape.png": "/portfolio/static/media/cabbagetreelandscape.7feddacb.png",
@@ -19,13 +19,14 @@
     "static/media/cactuscan.png": "/portfolio/static/media/cactuscan.9ef3cb72.png",
     "static/media/edulyt.png": "/portfolio/static/media/edulyt.da769e1d.png",
     "static/media/hrishikesh-green.jpg": "/portfolio/static/media/hrishikesh-green.a6f50268.jpg",
+    "static/media/medium.jpg": "/portfolio/static/media/medium.d5ba3b68.jpg",
     "static/media/psykinetic.png": "/portfolio/static/media/psykinetic.9c1952ca.png",
     "static/media/publicissapient.png": "/portfolio/static/media/publicissapient.e3c30fed.png"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.08f4fafc.chunk.js",
+    "static/js/2.ea375130.chunk.js",
     "static/css/main.c5839ae1.chunk.css",
-    "static/js/main.ea83b484.chunk.js"
+    "static/js/main.3a70c4c4.chunk.js"
   ]
 }
