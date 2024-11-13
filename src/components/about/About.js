@@ -62,7 +62,7 @@ const About = () => {
               <p>.</p>
             </div>
             <p>
-              [ <b>2021</b> - year of change ] - I had started my professional career, I started reading some quality books,
+              [ <b>2021-2022</b> - years of change ] - I had started my professional career, I started reading some quality books,
               I learnt about personal finance and financial planning which enabled me to manage my money by myself; 
               a big confidence boost.
               {/* <Link
@@ -76,8 +76,8 @@ const About = () => {
               </Link> */}
             </p>
             <p>
-              [ <b>2023-2024</b> - years of challenges ] - I had some health related issues. But, I came back stronger! I realized
-              the importance of health in life and now have a good grasp and understanding of it.
+              [ <b>2023-2024</b> - years of exponential growth ] - I got my first cloud certification in Azure; AZ-104 Azure Administrator. 
+              I am also upskilling myself, learning new technologies, getting hands-on, writing articles in Medium.
               {/* <Link
                 className="textLink"
                 to="projects"
@@ -92,7 +92,7 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              I have now control over 2 very important pillars in life; <b>Health</b> & <b>Wealth</b>
+              Striving to make myself better each and everyday!
             </p>
             <div className="location-wrapper">
               <svg
