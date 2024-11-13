@@ -20,15 +20,15 @@
       "id": 1,
       "link": "https://www.publicissapient.com",
       "company": "PublicisSapient",
-      "title": "Associate Infrastructure L2",
+      "title": "Senior Associate Infrastructure L1",
       "dateFrom": "June 2021",
       "dateTo": "Current",
       "info": [
         "Successfully managed and executed production deployments for clients, ensuring a seamless transition and on-time go-live.",
-        "Utilized IaC tools to automate identification and review of PR based changes, and deployment of cloud infrastructure",
+        "Lead a team of DevOps & leveraged containerized deployments & orchestration along with pipeline automation through Azure DevOps and Azure Kubernetes Services to manage application workloads.",
         "Collaborated with client to debottleneck their application gateways, resulting in a 50% reduction in manual intervention required for scaling"
       ],
-      "stack": ["Spring Boot", "DevOps", "Camunda", "Kong","Terraform","Ansible","React"],
+      "stack": ["Azure", "DevOps", "Kubernetes", "Helm", "Terraform", "Ansible", "Azure DevOps"],
       "logowidth": 80,
       "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
       "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)"
